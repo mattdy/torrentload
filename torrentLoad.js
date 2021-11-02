@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name               Magnet Torrent Poker
 // @namespace          http://mattdyson.org/projects/torrentload
-// @updateURL          http://projects.mattdyson.org/projects/torrentLoad/torrentLoad.js
-// @downloadURL        http://projects.mattdyson.org/projects/torrentLoad/torrentLoad.js
+// @updateURL          https://raw.githubusercontent.com/mattdy/torrentload/main/torrentLoad.js
+// @downloadURL        https://raw.githubusercontent.com/mattdy/torrentload/main/torrentLoad.js
 // @version            1.4
 // @description        Changes magnet torrent links to poke through to rTorrent, via a Python script found at http://mattdyson.org/projects/torrentload
 // @copyright          2014+, Matt Dyson
